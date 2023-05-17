@@ -1,0 +1,21 @@
+---
+title: Terra Kids
+subtitle: Barra de Chocolate 30g
+layout: default
+modal-id: 2
+date: 2023-05-17
+img: terrakids.png
+thumbnail: terrakids.png
+alt: image-alt
+description:Ingredientes:
+
+Cacao fino de aroma 55%
+Quinoa Pop, ligeramente tostada e inflada.
+
+Presentación:
+
+Caja unidad 30g.
+Caja Display 20 unidades.
+ 
+
+---
