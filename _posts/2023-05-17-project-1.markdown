@@ -1,0 +1,20 @@
+---
+title: Terraroma
+subtitle: Barra de Chocolate 60g
+layout: default
+modal-id: 1
+date: 2023-05-17
+img: terraroma.png
+thumbnail: terraroma.png
+alt: image-alt
+description: Ingredientes:
+
+Cacao fino de aroma 55%
+Quinoa Pop, ligeramente tostada e inflada.
+
+Presentación:
+
+Caja unidad 60g.
+Caja Display 12 unidades.
+
+---
