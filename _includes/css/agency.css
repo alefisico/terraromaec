@@ -441,7 +441,7 @@ section h3.section-subheading {
 .timeline:before {
     content: "";
     position: absolute;
-    top: -1.5px;
+    top: 50px;
     bottom: 0;
     left: 40px;
     width: 2px;
